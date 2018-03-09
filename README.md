@@ -3,6 +3,9 @@
 praying
 singing
 weigh lifting
+right amount of food
+healthy biatices
+fasting
 
 study
 
