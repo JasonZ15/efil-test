@@ -7,3 +7,12 @@ linux (others)
   container engine
     containers
       runtime envs
+
+
+example of Azure
+IaaS VMs
+PaaS {
+  cloud services
+  app services
+}
+SaaS office365
