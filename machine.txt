@@ -20,5 +20,5 @@ SaaS office365
 
 run vscode with dev tools open (to see what is running and what is not working)
 
-cloud POWER
+cloud POWER (everything should be safe and secured there)
 try aws free tier
