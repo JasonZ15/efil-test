@@ -16,3 +16,9 @@ PaaS {
   app services
 }
 SaaS office365
+
+
+run vscode with dev tools open (to see what is running and what is not working)
+
+cloud POWER
+try aws free tier
